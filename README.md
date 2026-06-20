@@ -12,7 +12,7 @@
 
 ## 前置条件
 
-- 您必须报名 [C 语言训练营](https://opencamp.ai/C/camp/2026?lang=zh_CN)
+- 您必须报名 [C 语言训练营](https://opencamp.cn/C/camp/2026?lang=zh_CN)
 
   ![](resource/c.jpg)
 
