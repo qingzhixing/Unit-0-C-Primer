@@ -18,10 +18,12 @@
 
 #include <stdio.h>
 
-#error TODO: Fix this exercise. Run "clings hint" for help.
+int global = 200;
 
-int main(void)
-{
-#error TODO: Fix this exercise. Run "clings hint" for help.
-	return 0;
+int main(void) {
+    int local = 100;
+    global = 0xc8;
+    printf("local = %d\n", local);
+    printf("global = 0x%x\n", global);
+    return 0;
 }
